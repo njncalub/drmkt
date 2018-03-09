@@ -15,8 +15,8 @@
       <g:availability>in stock</g:availability>
       <g:price>105.00 PHP</g:price>
       <g:sale_price>100.00 PHP</g:sale_price>
-      <g:product_type>COffice Supplies > General Office Supplies > Paper Clips & Clamps</g:product_type>
-      <g:google_product_category>Office Supplies > General Office Supplies > Paper Clips & Clamps</g:google_product_category>
+      <g:product_type>Office Supplies > General Office Supplies > Paper Clips &amp; Clamps</g:product_type>
+      <g:google_product_category>Office Supplies > General Office Supplies > Paper Clips &amp; Clamps</g:google_product_category>
     </item>
   </channel>
 </rss>
