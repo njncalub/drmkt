@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Tindahan ni Aling Nena</title>
+    <link>https://njncalub.github.io/drmkt/merchants/</link>
+    <description>Tindahan ni Aling Nena</description>
+    <item>
+      <g:id>1</g:id>
+      <g:title>Deli Paper Clips</g:title>
+      <g:description>29mm Nickel Plated Round Paper Clips</g:description>
+      <g:link>https://njncalub.github.io/drmkt/merchants/product/1.html</g:link>
+      <g:image_link>https://njncalub.github.io/drmkt/merchants/products/1.jpg</g:image_link>
+      <g:brand>Deli</g:brand>
+      <g:condition>New</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.00 PHP</g:price>
+      <g:sale_price>5.00 PHP</g:sale_price>
+      <g:product_type>COffice Supplies > General Office Supplies > Paper Clips & Clamps</g:product_type>
+      <g:google_product_category>Office Supplies > General Office Supplies > Paper Clips & Clamps</g:google_product_category>
+    </item>
+  </channel>
+</rss>
